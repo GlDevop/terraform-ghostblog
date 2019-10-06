@@ -2,6 +2,8 @@
 
 Deploy a ghost blog to localhost via terraform
 
+> Docker is mandatory for terraform plan to work.
+
 ## Installation
 
 For default values to deploy to port 80 and docker image ghost:latest
