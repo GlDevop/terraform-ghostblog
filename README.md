@@ -1,6 +1,6 @@
 # Introduction
 
-Deploy a ghost blog to localhost via terraform
+Deploy a ghost blog to localhost via terraform using docker.
 
 > Docker is mandatory for terraform plan to work.
 
